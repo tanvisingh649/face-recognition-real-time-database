@@ -21,6 +21,6 @@ This project implements a real-time face recognition system using OpenCV, face_r
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/face-recognition-firebase.git
+   git clone https://github.com/tanvisingh649/face-recognition-firebase.git
    cd face-recognition-firebase
 
